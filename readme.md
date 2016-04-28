@@ -1,10 +1,10 @@
-# Title Case
-#####
+# Ping Pong Test
+##### The Ping Pong Test, built in PHP.
 
 #### By Jessica Fix and Mary Warrington
 
 ## Description
-
+Enter a number and watch the application count up to that number, showing numbers divisible by three as "ping", numbers divisible by 5 as "pong", and numbers divisible by both 3 and 5 as "ping-pong." This application is an exercise in PHPunit testing.
 
 ## Setup
 
@@ -16,11 +16,17 @@
 
 ## Technologies Used
 
-HTML5, CSS3, Bootstrap, PHP, Silex, Twig
+* PHP
+* Silex
+* Twig
+* PHPunit
+* HTML5
+* Bootstrap
+* CSS3
 
 ### Legal
 
-Copyright (c) 2016, Mary Warrington and Jessica Fix
+Copyright (c) 2016, Jessica Fix & Mary Warrington
 
 This software is licensed under the MIT license.
 
